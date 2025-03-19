@@ -120,5 +120,8 @@ The gain mapped JPGs (like the matplotlib integration above) have been validated
   * [Exposure Fusion](https://en.wikipedia.org/wiki/Exposure_fusion) and [tone mapping](https://en.wikipedia.org/wiki/Tone_mapping)
 * [Manual creation of UltraHDR images](https://discuss.pixls.us/t/manual-creation-of-ultrahdr-images/45004/10) : discussion thread 
   
+---
 
+<img src="images/gain_mapped-procedural_art-square_flows_mona_lisa.jpg" width=400px>
 
+*Procedurally generated gain mapped jpeg* : motivated by [#genuary](https://genuary.art)
