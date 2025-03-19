@@ -4,7 +4,7 @@ Links, discussion threads, [example images](https://github.com/NMoroney/awesome-
 
 <img src="images/gain_mapped-visualization-matplotlib_gpx.jpg" width=400px>
 
-There is also a multi-page Streamlit app (that includes an HDR color picker) available for in-person demonstration. An SDR (ie non-gain mapped) screenshot jpg of this application is below. The resulting gain mapped image of this astronomy image is [here](images/gain_mapped-photo-laser_milky_way.jpg) :
+There is also a multi-page Streamlit app (that includes an HDR color picker) available for in-person demonstration. An SDR (ie non-gain mapped) screenshot jpg of this application is below. A gain mapped version of this astronomy image is [here](images/gain_mapped-photo-laser_milky_way.jpg) :
 
 <img src="images/2503-hdr_multipage_app-01.jpg" width=400px>
 
