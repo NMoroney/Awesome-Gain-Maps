@@ -8,7 +8,7 @@ There is also a multi-page Streamlit app (that includes an HDR color picker) ava
 
 <img src="images/2503-hdr_multipage_app-01.jpg" width=400px>
 
-The gain mapped JPGs (like the matplotlib integration above) have been verified using a MacBook Pro M3 (Sonoma 14.6.1) display and the Brave Browser (1.76.73).
+The gain mapped JPGs (like the matplotlib integration above) have been verified using a MacBook Pro M3 (Sonoma 14.6.1) display and the Brave Browser (1.76.73). The Streamlit [dark mode](https://docs.streamlit.io/develop/concepts/configuration/theming) is used for the demo app and a comparable viewing condition may be preferred when viewing the example gain mapped jpegs.
 
 ---
 
