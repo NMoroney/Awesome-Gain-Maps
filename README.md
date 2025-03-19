@@ -122,6 +122,6 @@ The gain mapped JPGs (like the matplotlib integration above) have been validated
   
 ---
 
-<img src="images/gain_mapped-procedural_art-square_flows_mona_lisa.jpg" width=400px>
+<img src="images/gain_mapped-procedural_art-square_flows_mona_lisa.jpg" width=300px>
 
 *Procedurally generated gain mapped jpeg* : motivated by [#genuary](https://genuary.art)
