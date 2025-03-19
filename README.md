@@ -96,7 +96,7 @@ The gain mapped JPGs (like the matplotlib integration above) have been verified 
 * pixls.us : [Play Raw category](https://discuss.pixls.us/c/processing/playraw/30) . . . such as
   * [A little snow to play with](https://discuss.pixls.us/t/a-little-snow-to-play-with/46687)
 * [CR2](https://en.wikipedia.org/wiki/Raw_image_format) : Canon Raw v2 (CR2) . . . Canon 5D camera
-* [ISET/isetcam](https://github.com/ISET/isetcam) . . . **using Octave**
+* [ISET/isetcam](https://github.com/ISET/isetcam) . . . (notes w Octave?)
 * [A most unusual brightness](https://chsmc.org/2024/10/unusual-brightness/) : "The illustrations for Digital Divinity make use of this effect in a brilliant (literally) way by masking a pure white, HDR video such that parts of the illustration glow with an ethereal brightness."
 * [Inverse Tone Mapping - Upscaling SDR Content to HDR](https://professionalsupport.dolby.com/s/article/Inverse-tone-mapping-upscaling-SDR-content-to-HDR?language=en_US)
 * [Welcome to the wide-gamut test page](https://www.wide-gamut.com/test)
