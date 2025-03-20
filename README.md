@@ -1,8 +1,11 @@
 # Awesome Gain Maps
 
-Links, discussion threads, [example images](https://github.com/NMoroney/awesome-gain-maps/tree/main/images) and libraries related to HDR using gain mapped JPEGs. This repository started as a collection of links and papers about color HDR. Then after CIC32 it accumulated applications and images from a parallel 30 day challenge on gain maps. Now its a combination of these threads, a work in progress and includes samples like this integration of [matplotlib](https://matplotlib.org) and [libultrahdr](https://github.com/google/libultrahdr) for HDR data visualization :
+Links, discussion threads, [example images](https://github.com/NMoroney/awesome-gain-maps/tree/main/images) and libraries related to HDR using gain mapped JPEGs. This repository started as a collection of links and papers about color HDR. Then after CIC32 it accumulated applications and images from a parallel 30 day challenge on gain maps. Now its a combination of these threads, a work in progress and a range of samples including photography, video games, visualization and test targets.
 
-<img src="images/gain_mapped-visualization-matplotlib_gpx.jpg" width=400px>
+|Gain Mapped JPGs | | |
+| --- | --- | --- |
+| <img src="images/gain_mapped-photo-tokyo.jpg" width=250px> | <img src="images/gain_mapped-photo-phi_falls.jpg" width=250px> | <img src="images/gain_mapped-video_games-speed_dreams.jpg" width=250px>  |
+| <img src="images/gain_mapped-visualization-matplotlib_gpx.jpg" width=250px> | <img src="images/gain_mapped-photo-airborne_by_christopher_klein.jpg" width=250px> | <img src="images/gain_mapped-test_chart-gray_51.jpg" height=200px>| 
 
 There is also a multi-page Streamlit app (that includes an HDR color picker) available for in-person demonstration. An SDR (ie non-gain mapped) screenshot jpg of this application is below. A gain mapped version of this astronomy image is [here](images/gain_mapped-photo-laser_milky_way.jpg) :
 
