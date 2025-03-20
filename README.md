@@ -105,7 +105,7 @@ The gain mapped JPGs have been validated using a MacBook Pro M3 (Sonoma 14.6.1) 
 * [Inverse Tone Mapping - Upscaling SDR Content to HDR](https://professionalsupport.dolby.com/s/article/Inverse-tone-mapping-upscaling-SDR-content-to-HDR?language=en_US)
 * [Welcome to the wide-gamut test page](https://www.wide-gamut.com/test)
 * [dtinth/superwhite](https://github.com/dtinth/superwhite)
-  * "display a very bright white color on HDR-enabled displays with ~1 KB of video file" . . . **Asombroso!**
+  * "display a very bright white color on HDR-enabled displays with ~1 KB of video file"
 * [Perceptually uniform color space for image signals including high dynamic range and wide gamut](https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-13-15131&id=368272)
 * [Visualizing Errors in Rendered High Dynamic Range Images](https://research.nvidia.com/publication/2021-05_visualizing-errors-rendered-high-dynamic-range-images)
 * [HDR Merge](https://support.captureone.com/hc/en-us/articles/8861073819165-HDR-Merge) : "Get increased dynamic range in your photos by merging your bracketed RAW files directly within Capture One. The result is a linear DNG that behaves like a RAW file for further editing."
