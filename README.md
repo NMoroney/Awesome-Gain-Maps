@@ -2,7 +2,7 @@
 
 Links, discussion threads, [example images](https://github.com/NMoroney/awesome-gain-maps/tree/main/images) and libraries related to HDR using gain mapped JPEGs. This repository started as a collection of links and papers about color HDR. Then after CIC32 it accumulated applications and images from a parallel 30 day challenge on gain maps. Now it's a combination of these threads, a work in progress and a range of samples including photography, video games, visualization and test targets.
 
-|Gain Mapped JPGs | | |
+|Gain Mapped JPGs | | [More Examples & Attributions](images) |
 | --- | --- | --- |
 | <img src="images/gain_mapped-photo-tokyo.jpg" width=250px> | <img src="images/gain_mapped-photo-phi_falls.jpg" width=250px> | <img src="images/gain_mapped-video_games-speed_dreams.jpg" width=250px>  |
 | <img src="images/gain_mapped-visualization-matplotlib_gpx.jpg" width=250px> | <img src="images/gain_mapped-photo-airborne_by_christopher_klein.jpg" width=250px> | <img src="images/gain_mapped-test_chart-gray_51.jpg" height=200px>| 
