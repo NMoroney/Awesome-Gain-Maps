@@ -8,7 +8,7 @@ Links, discussion threads, [example images](https://github.com/NMoroney/awesome-
 | <img src="images/gain_mapped-visualization-matplotlib_gpx.jpg" width=250px> | <img src="images/gain_mapped-photo-airborne_by_christopher_klein.jpg" width=250px> | <img src="images/gain_mapped-test_chart-gray_51.jpg" height=200px>| 
 | <img src="images/gain_mapped-ui-demo_app.jpg" height=200px> | <img src="images/gain_mapped-test_chart-color_02.jpg" height=200px> | <img src="images/gain_mapped-photo-canada_national_football_team_wc2022.jpg" width=250px> | 
 
-There is also a multi-page Streamlit app (that includes an HDR color picker) available for in-person demonstration. An SDR (ie non-gain mapped) screenshot jpg of this application is below. A gain mapped version of this astronomy image is [here](images/gain_mapped-photo-laser_milky_way.jpg) :
+There is also a multi-page Streamlit app (that includes an HDR color picker) available for in-person demonstration. An SDR (ie non-gain mapped) screenshot jpg of this application is below. For comparison, a gain mapped version of this astronomy image is [here](images/gain_mapped-photo-laser_milky_way.jpg) :
 
 <img src="images/2503-hdr_multipage_app-01.jpg" width=400px>
 
