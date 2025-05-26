@@ -29,17 +29,17 @@ Attribution's to [NMoroney](https://github.com/NMoroney) are licensed under the 
 | <img src="gain_mapped-photo-canada_national_football_team_wc2022.jpg" width=400px><br>[gain_mapped-photo-canada_national_football_team_wc2022.jpg](gain_mapped-photo-canada_national_football_team_wc2022.jpg) | [Hossein Zohrevand](https://commons.wikimedia.org/wiki/File:Canada_national_football_team_WC2022.jpg) |
 | <img src="gain_mapped-photo-colorful_daisies.jpg" width=400px><br>[gain_mapped-photo-colorful_daisies.jpg](gain_mapped-photo-colorful_daisies.jpg) | [Kaz Andrew](https://commons.wikimedia.org/wiki/File:Colorful_Crazy_Daisies_(1)_(2530872878).jpg) | 
 | <img src="gain_mapped-photo-laser_milky_way.jpg" width=400px><br>[gain_mapped-photo-laser_milky_way.jpg](gain_mapped-photo-laser_milky_way.jpg) | [ESO/Yuri Beletsky](https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg) |
-| gain_mapped-photo-phi_falls.jpg | [Basile Morin] |(https://commons.wikimedia.org/wiki/File:Li_Phi_falls_at_dusk_with_colorful_sky_and_clouds_in_Don_Khon_Laos.jpg) |
-| gain_mapped-photo-tokyo.jpg | [Basile Morin] |(https://commons.wikimedia.org/wiki/File:Colorful_neon_street_signs_in_Kabukichō,_Shinjuku,_Tokyo.jpg) |
-| gain_mapped-procedural_art-square_flows_mona_lisa.jpg | [NMoroney](https://github.com/NMoroney) |
-| gain_mapped-test_chart-color_01.jpg | [NMoroney](https://github.com/NMoroney) |
-| gain_mapped-test_chart-color_02.jpg | [NMoroney](https://github.com/NMoroney) |
-| gain_mapped-test_chart-gray_51.jpg | [NMoroney](https://github.com/NMoroney) |
-| gain_mapped-test_chart-squares_b4_gm2.jpg | [NMoroney](https://github.com/NMoroney) |
-| gain_mapped-text-sphinx_01.jpg | [NMoroney](https://github.com/NMoroney) | 
-| gain_mapped-ui-demo_app.jpg | [Gain Map Demo App](https://www.adobe.com/go/gainmap_demoapp_mac) |
-| gain_mapped-video_games-guacamelee.jpg | [DrinkBox Studios](https://commons.wikimedia.org/wiki/File:Guacamelee!_screenshot_J.jpg) |
-| gain_mapped-video_games-nexuiz.jpg | [Bayo](https://commons.wikimedia.org/wiki/File:Nexuiz_-_screenshot_8.jpg) |
+| <img src="gain_mapped-photo-phi_falls.jpg" width=400px><br>[gain_mapped-photo-phi_falls.jpg](gain_mapped-photo-phi_falls.jpg) | [Basile Morin](https://commons.wikimedia.org/wiki/File:Li_Phi_falls_at_dusk_with_colorful_sky_and_clouds_in_Don_Khon_Laos.jpg) |
+| <img src="gain_mapped-photo-tokyo.jpg" width=400px><br>[gain_mapped-photo-tokyo.jpg](gain_mapped-photo-tokyo.jpg) | [Basile Morin](https://commons.wikimedia.org/wiki/File:Colorful_neon_street_signs_in_Kabukichō,_Shinjuku,_Tokyo.jpg) |
+| <img src="gain_mapped-procedural_art-square_flows_mona_lisa.jpg" width=400px><br>[gain_mapped-procedural_art-square_flows_mona_lisa.jpg](gain_mapped-procedural_art-square_flows_mona_lisa.jpg) | [NMoroney](https://github.com/NMoroney) |
+| <img src="gain_mapped-test_chart-color_01.jpg" width=400px><br>[gain_mapped-test_chart-color_01.jpg](gain_mapped-test_chart-color_01.jpg) | [NMoroney](https://github.com/NMoroney) |
+| <img src="gain_mapped-test_chart-color_02.jpg" width=400px><br>[gain_mapped-test_chart-color_02.jpg](gain_mapped-test_chart-color_02.jpg) | [NMoroney](https://github.com/NMoroney) |
+| <img src="gain_mapped-test_chart-gray_51.jpg" width=400px><br>[gain_mapped-test_chart-gray_51.jpg](gain_mapped-test_chart-gray_51.jpg) | [NMoroney](https://github.com/NMoroney) |
+| <img src="gain_mapped-test_chart-squares_b4_gm2.jpg" width=400px><br>[gain_mapped-test_chart-squares_b4_gm2.jpg](gain_mapped-test_chart-squares_b4_gm2.jpg) | [NMoroney](https://github.com/NMoroney) |
+| <img src="gain_mapped-text-sphinx_01.jpg" width=400px><br>[gain_mapped-text-sphinx_01.jpg](gain_mapped-text-sphinx_01.jpg) | [NMoroney](https://github.com/NMoroney) | 
+| <img src="gain_mapped-ui-demo_app.jpg" width=400px><br>[gain_mapped-ui-demo_app.jpg](gain_mapped-ui-demo_app.jpg) | [Gain Map Demo App](https://www.adobe.com/go/gainmap_demoapp_mac) |
+| <img src="gain_mapped-video_games-guacamelee.jpg" width=400px><br>[gain_mapped-video_games-guacamelee.jpg](gain_mapped-video_games-guacamelee.jpg) | [DrinkBox Studios](https://commons.wikimedia.org/wiki/File:Guacamelee!_screenshot_J.jpg) |
+| <img src="gain_mapped-video_games-nexuiz.jpg" width=400px><br>[gain_mapped-video_games-nexuiz.jpg](gain_mapped-video_games-nexuiz.jpg) | [Bayo](https://commons.wikimedia.org/wiki/File:Nexuiz_-_screenshot_8.jpg) |
 | gain_mapped-video_games-speed_dreams.jpg | [Antimundo](https://commons.wikimedia.org/wiki/File:Speed-dreams-2.4.0-screenshot-multiplecars.jpg) |
 | gain_mapped-video_games-warsow.jpg | [Chasseur De Bots](https://commons.wikimedia.org/wiki/File:Warsow_Screenshot_1.0_1.jpg) |
 | gain_mapped-visualization-3d_scatterplot.jpg | [NMoroney](https://github.com/NMoroney) |
