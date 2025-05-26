@@ -16,6 +16,9 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
+* [Gain-MLP: Improving HDR Gain Map Encoding via a Lightweight MLP](https://arxiv.org/html/2503.11883v1)
+  * [T. Canham](https://github.com/trevorcanham), [S. Tedla](https://github.com/tedlasai), [M.J. Murdoch](https://www.rit.edu/directory/mmpocs-michael-murdoch), [M.S. Brown](http://www.cse.yorku.ca/~mbrown/) - March 2025
+  * "The proposed MLP network architecture. Given the SDR image’s pixel coordinates and RGB values, the network encodes each pixel in a 120-element sine embedding, which is then passed to a two-layer MLP, whose weights are optimized to predict the corresponding gain or gamma map values at each pixel."
 * [ISO HDR Images Test Sets (22028-5, 21496-1)
 ](https://www.imaging.org/IST/IST/Standards/ISO%20HDR%20Images%20Test%20Sets.aspx)
   * These free images test sets are licensed under the CC BY-NC 4.0 license.
@@ -122,7 +125,10 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 * [High Dynamic Range Imaging - Exposure sequence & Exposure fusion](https://docs.opencv.org/4.x/d3/db7/tutorial_hdr_imaging.html) - EXPOSURE FUSION
   * [Splitting OpenEXR into different exposure images](https://stackoverflow.com/questions/58740992/splitting-openexr-into-different-exposure-images)
   * [Exposure Fusion](https://en.wikipedia.org/wiki/Exposure_fusion) and [tone mapping](https://en.wikipedia.org/wiki/Tone_mapping)
-* [Manual creation of UltraHDR images](https://discuss.pixls.us/t/manual-creation-of-ultrahdr-images/45004/10) : discussion thread 
+* [Manual creation of UltraHDR images](https://discuss.pixls.us/t/manual-creation-of-ultrahdr-images/45004/10) : discussion thread
+* [Day-to-Night Image Synthesis for Training Nighttime Neural ISPs](https://github.com/SamsungLabs/day-to-night) : CVPR'22 Oral
+  * [SamsungLabs](https://github.com/SamsungLabs)
+* [Improving-Color-Space-Conversion-for-Camera-Captured-Images-via-Wide-Gamut-Metadata](https://github.com/hminle/improving-color-space-conversion-via-metadata?tab=readme-ov-file)
   
 ---
 
