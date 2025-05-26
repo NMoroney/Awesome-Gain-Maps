@@ -40,11 +40,11 @@ Attribution's to [NMoroney](https://github.com/NMoroney) are licensed under the 
 | <img src="gain_mapped-ui-demo_app.jpg" width=400px><br>[gain_mapped-ui-demo_app.jpg](gain_mapped-ui-demo_app.jpg) | [Gain Map Demo App](https://www.adobe.com/go/gainmap_demoapp_mac) |
 | <img src="gain_mapped-video_games-guacamelee.jpg" width=400px><br>[gain_mapped-video_games-guacamelee.jpg](gain_mapped-video_games-guacamelee.jpg) | [DrinkBox Studios](https://commons.wikimedia.org/wiki/File:Guacamelee!_screenshot_J.jpg) |
 | <img src="gain_mapped-video_games-nexuiz.jpg" width=400px><br>[gain_mapped-video_games-nexuiz.jpg](gain_mapped-video_games-nexuiz.jpg) | [Bayo](https://commons.wikimedia.org/wiki/File:Nexuiz_-_screenshot_8.jpg) |
-| gain_mapped-video_games-speed_dreams.jpg | [Antimundo](https://commons.wikimedia.org/wiki/File:Speed-dreams-2.4.0-screenshot-multiplecars.jpg) |
-| gain_mapped-video_games-warsow.jpg | [Chasseur De Bots](https://commons.wikimedia.org/wiki/File:Warsow_Screenshot_1.0_1.jpg) |
-| gain_mapped-visualization-3d_scatterplot.jpg | [NMoroney](https://github.com/NMoroney) |
-| gain_mapped-visualization-matplotlib_gpx.jpg | [NMoroney](https://github.com/NMoroney) |
-| rgba.uhdr | [libultrahdr](https://github.com/google/libultrahdr) |
-| rgba_uhdr.jpg | [libultrahdr](https://github.com/google/libultrahdr) |
+| <img src="gain_mapped-video_games-speed_dreams.jpg" width=400px><br>[gain_mapped-video_games-speed_dreams.jpg](gain_mapped-video_games-speed_dreams.jpg) | [Antimundo](https://commons.wikimedia.org/wiki/File:Speed-dreams-2.4.0-screenshot-multiplecars.jpg) |
+| <img src="gain_mapped-video_games-warsow.jpg" width=400px><br>[gain_mapped-video_games-warsow.jpg](gain_mapped-video_games-warsow.jpg) | [Chasseur De Bots](https://commons.wikimedia.org/wiki/File:Warsow_Screenshot_1.0_1.jpg) |
+| <img src="gain_mapped-visualization-3d_scatterplot.jpg" width=400px><br>[gain_mapped-visualization-3d_scatterplot.jpg](gain_mapped-visualization-3d_scatterplot.jpg) | [NMoroney](https://github.com/NMoroney) |
+| <img src="gain_mapped-visualization-matplotlib_gpx.jpg" width=400px><br>[gain_mapped-visualization-matplotlib_gpx.jpg](gain_mapped-visualization-matplotlib_gpx.jpg) | [NMoroney](https://github.com/NMoroney) |
+| <img src="rgba_uhdr.jpg" width=400px><br>[rgba.uhdr](rgba.uhdr) | [libultrahdr](https://github.com/google/libultrahdr) |
+| <img src="rgba_uhdr.jpg" width=400px><br>[rgba_uhdr.jpg](rgba_uhdr.jpg) | [libultrahdr](https://github.com/google/libultrahdr) |
 | <img src="gain_mapped-medical-z-line-0a6bdc13-99b5-4287-8380-b469e7a397cf.jpg" width=400px><br>[gain_mapped-medical-z-line-0a6bdc13-99b5-4287-8380-b469e7a397cf.jpg](gain_mapped-medical-z-line-0a6bdc13-99b5-4287-8380-b469e7a397cf.jpg) | [Kvasir](https://datasets.simula.no/kvasir/) |
 
