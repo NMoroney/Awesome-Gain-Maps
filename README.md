@@ -1,6 +1,6 @@
 # Awesome Gain Maps
 
-Links, discussion threads, [example images](https://github.com/NMoroney/awesome-gain-maps/tree/main/images) and libraries related to HDR using gain mapped JPEGs. This repository started as a collection of links and papers about color HDR. Then after CIC32 it accumulated applications and images from a parallel 30 day challenge on gain maps. Now it's a combination of these threads, a work in progress and a range of samples including photography, video games, visualization and test targets.
+Links, papers, discussion threads, [example images](https://github.com/NMoroney/awesome-gain-maps/tree/main/images) and libraries related to HDR using gain mapped JPEGs. This repository started as a collection of links and papers about color HDR. Then after CIC32 it accumulated applications and images from a parallel 30 day challenge on gain maps. Now it's a combination of these threads, a work in progress and a range of samples including photography, video games, visualization and test targets.
 
 | Examples | | [More Examples & Attributions](images) |
 | --- | --- | --- |
