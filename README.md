@@ -129,6 +129,7 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 * [Day-to-Night Image Synthesis for Training Nighttime Neural ISPs](https://github.com/SamsungLabs/day-to-night) : CVPR'22 Oral
   * [SamsungLabs](https://github.com/SamsungLabs)
 * [Improving-Color-Space-Conversion-for-Camera-Captured-Images-via-Wide-Gamut-Metadata](https://github.com/hminle/improving-color-space-conversion-via-metadata?tab=readme-ov-file)
+* [Monochrome vs Color Gain Map Examples](https://people.csail.mit.edu/ericchan/hdr/mono-gain-map.html) : from the website of [Eric Chan](https://people.csail.mit.edu/ericchan/)
   
 ---
 
