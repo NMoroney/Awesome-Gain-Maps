@@ -128,10 +128,12 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 * [Manual creation of UltraHDR images](https://discuss.pixls.us/t/manual-creation-of-ultrahdr-images/45004/10) : discussion thread
 * [Day-to-Night Image Synthesis for Training Nighttime Neural ISPs](https://github.com/SamsungLabs/day-to-night) : CVPR'22 Oral
   * [SamsungLabs](https://github.com/SamsungLabs)
+* [HEIC Image Processing Tools](https://github.com/finnschi/heic-shenanigans) - heic-shenanigans
 * [Gamma Maps: Non-linear Gain Maps for HDR Reconstruction](https://www.researchgate.net/profile/Trevor-Canham/publication/383212599_Gamma_Maps_Non-linear_Gain_Maps_for_HDR_Reconstruction/links/66c21e922ff54d6c9edba842/Gamma-Maps-Non-linear-Gain-Maps-for-HDR-Reconstruction.pdf)
 * [Improving-Color-Space-Conversion-for-Camera-Captured-Images-via-Wide-Gamut-Metadata](https://github.com/hminle/improving-color-space-conversion-via-metadata?tab=readme-ov-file)
 * [Monochrome vs Color Gain Map Examples](https://people.csail.mit.edu/ericchan/hdr/mono-gain-map.html) : from the website of [Eric Chan](https://people.csail.mit.edu/ericchan/)
-* [American Science & Surplus is fighting for its life. Here’s why you should care.](https://arstechnica.com/gadgets/2025/06/american-science-surplus-is-fighting-for-its-life-heres-why-you-should-care/?comments-page=1#comments) - neat place, nice photos
+* [American Science & Surplus is fighting for its life. Here’s why you should care.](https://arstechnica.com/gadgets/2025/06/american-science-surplus-is-fighting-for-its-life-heres-why-you-should-care/?comments-page=1#comments) - neat place, nice gain mapped photos
+* [The iPhone 15 Pro's Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html) : and the gain maps
   
 ---
 
