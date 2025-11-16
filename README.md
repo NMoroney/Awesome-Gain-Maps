@@ -16,6 +16,7 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
+* [Convert HDR files to Gain Map HDR](https://github.com/chemharuka/toGainMapHDR) : A tool to convert HDR file to Adaptive HDR (Gain Map HDR) and ISO HDR format in HEIC
 * [Gain-MLP: Improving HDR Gain Map Encoding via a Lightweight MLP](https://arxiv.org/html/2503.11883v1)
   * [T. Canham](https://github.com/trevorcanham), [S. Tedla](https://github.com/tedlasai), [M.J. Murdoch](https://www.rit.edu/directory/mmpocs-michael-murdoch), [M.S. Brown](http://www.cse.yorku.ca/~mbrown/) - March 2025
   * "The proposed MLP network architecture. Given the SDR image’s pixel coordinates and RGB values, the network encodes each pixel in a 120-element sine embedding, which is then passed to a two-layer MLP, whose weights are optimized to predict the corresponding gain or gamma map values at each pixel."
