@@ -17,6 +17,8 @@ Test viewing of all images :
 | --- | --- | --- |
 | MacBook Pro M3 | Sonoma 14.6.1 | Brave (1.76.73) |
 
+For additional examples of gain mapped jpegs, also see : [cats](cats/).
+
 ---
 
 The table below provides list with corresponding attributions.
