@@ -5,9 +5,11 @@ Cats are great HDR test content.
 
 Fur and whiskers provide high frequency details.
 
-Depending on the scene can have a lot of contrast (backlit, snow) or low contrast (dim illumination).
+Depending on the scene they can have a lot of contrast (backlit, snow) or low contrast (dim illumination).
 
-Examples below generated with streamlit demo app.
+The gain-mapped versions below were generated with a streamlit demo app.
+
+Please reference the attribution column for photographers and image license.
 
 ---
 
