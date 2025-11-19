@@ -3,7 +3,7 @@
 
 Cats are great HDR test content. 
 
-Fur and whiskers provide high frequency details.
+Fur and whiskers provide challenging high frequency details.
 
 Depending on the scene they can have a lot of contrast (backlit, snow) or low contrast (dim illumination).
 
