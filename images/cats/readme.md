@@ -9,7 +9,7 @@ Depending on the scene they can have a lot of contrast (backlit, snow) or low co
 
 The gain-mapped versions below were generated with a streamlit demo app.
 
-Please reference the attribution column for photographers and image license.
+Please see the attribution column for photographers and licenses.
 
 ---
 
