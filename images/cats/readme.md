@@ -1,5 +1,5 @@
 
-## Awesome-Gain-Maps : Cats
+## Awesome-Gain-Maps : Images : Cats
 
 Cats are great HDR test content. 
 
