@@ -1,7 +1,15 @@
 
 ## Awesome-Gain-Maps : Cats
 
-Some gain mapped cats.
+Cats are great HDR test content. 
+
+Fur and whiskers provide high frequency details.
+
+Depending on the scene can have a lot of contrast (backlit, snow) or low contrast (dim illumination).
+
+Examples below generated with streamlit demo app.
+
+---
 
 | Image | Attribution |
 | --- | --- |
@@ -11,3 +19,7 @@ Some gain mapped cats.
 | <img src="gm-Cat_in_Kathmandu,_Nepal-070A3190.jpg" width=600px> | [Bijay Chaurasia](https://commons.wikimedia.org/wiki/File:Cat_in_Kathmandu,_Nepal-070A3190.jpg) |
 | <img src="gm-Cat_liquid.jpg" width=600px> | [哲学的ゾンビ](https://commons.wikimedia.org/wiki/File:Cat_liquid.jpg) |
 | <img src="gm-Cat_sitting_on_a_balcony_at_Castillo_de_Caravaca_de_la_Cruz_in_Caravaca_de_la_Cruz,_Noroeste,_Murcia,_Spain,_2025_February_-_2.jpg" width=600px> | [Ximonic](https://commons.wikimedia.org/wiki/File:Cat_sitting_on_a_balcony_at_Castillo_de_Caravaca_de_la_Cruz_in_Caravaca_de_la_Cruz,_Noroeste,_Murcia,_Spain,_2025_February_-_2.jpg) |
+| <img src="gm-Cats_2010-04-06_14.jpg" width=600px> | [WC-QHS](https://commons.wikimedia.org/wiki/File:Cats_2010-04-06_14.jpg) |
+| <img src="gm-Cats_dual_on_the_snowy_ground-01-Zenera.jpg" width=600px> | [Magnus Manske](https://commons.wikimedia.org/wiki/File:Cats_dual_on_the_snowy_ground-01-Zenera.jpg) |
+| <img src="gm-Chinchilla_cat_(5833713404).jpg" width=600px> | [Russavia](https://commons.wikimedia.org/wiki/File:Chinchilla_cat_(5833713404).jpg) |
+| <img src="gm-Kitten_with_paws_on_table_(square).jpg" width=600px> | [Watchduck](https://commons.wikimedia.org/wiki/File:Kitten_with_paws_on_table_(square).jpg) |
