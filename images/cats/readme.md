@@ -13,7 +13,7 @@ Please see the attribution column for photographers and licenses.
 
 ---
 
-| Image | Attribution |
+| Cat | Attribution |
 | --- | --- |
 | <img src="gm-Cat_(44744745484).jpg" width=600px> | [Юрий Д.К.](https://commons.wikimedia.org/wiki/File:Cat_(44744745484).jpg) |
 | <img src="gm-12_cats_eating_together_around_a_centrally_placed_lamp_in_cat_cafe.jpg" width=600px> | [Abujoy](https://commons.wikimedia.org/wiki/File:12_cats_eating_together_around_a_centrally_placed_lamp_in_cat_cafe.jpg) |
