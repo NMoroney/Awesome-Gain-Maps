@@ -7,7 +7,7 @@ Fur and whiskers provide challenging high frequency details.
 
 Depending on the scene they can have a lot of contrast (backlit, snow) or low contrast (dim illumination).
 
-The gain-mapped versions below were generated with a streamlit demo app.
+The gain-mapped versions below were generated with a [custom streamlit demo app](https://github.com/NMoroney/Awesome-Gain-Maps/tree/main).
 
 Please see the attribution column for photographers and licenses.
 
