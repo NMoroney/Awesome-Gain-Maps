@@ -16,6 +16,7 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
+* [HDR Flashbang](https://walzr.com/flashbang) : Make an image extremely bright - by [Riley Walz](https://walzr.com)
 * [Convert HDR files to Gain Map HDR](https://github.com/chemharuka/toGainMapHDR) : A tool to convert HDR file to Adaptive HDR (Gain Map HDR) and ISO HDR format in HEIC
 * [HDR2gainmap](https://github.com/vastunghia/HDR2gainmap) : RAW photo development to HDR with gain maps, tuned for accurate rendering in Apple Photos
 * [Gain-MLP: Improving HDR Gain Map Encoding via a Lightweight MLP](https://arxiv.org/html/2503.11883v1)
