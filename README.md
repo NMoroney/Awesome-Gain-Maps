@@ -138,7 +138,9 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 * [Monochrome vs Color Gain Map Examples](https://people.csail.mit.edu/ericchan/hdr/mono-gain-map.html) : from the website of [Eric Chan](https://people.csail.mit.edu/ericchan/)
 * [American Science & Surplus is fighting for its life. Here’s why you should care.](https://arstechnica.com/gadgets/2025/06/american-science-surplus-is-fighting-for-its-life-heres-why-you-should-care/?comments-page=1#comments) - neat place, nice gain mapped photos
 * [The iPhone 15 Pro's Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html) : and the gain maps
+* [A Subjective Comparison of Three Standard Tone Mapping Algorithms for HDR-to-SDR Conversion](https://www.mdpi.com/2079-9292/14/12/2428)
 * [Learning Gain Map for Inverse Tone Mapping](https://github.com/qtlark/GMNet) - ICLR2025
+
   
 ---
 
