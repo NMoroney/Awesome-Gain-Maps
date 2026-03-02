@@ -142,6 +142,9 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 * [Monochrome vs Color Gain Map Examples](https://people.csail.mit.edu/ericchan/hdr/mono-gain-map.html) : from the website of [Eric Chan](https://people.csail.mit.edu/ericchan/)
 * [American Science & Surplus is fighting for its life. Here’s why you should care.](https://arstechnica.com/gadgets/2025/06/american-science-surplus-is-fighting-for-its-life-heres-why-you-should-care/?comments-page=1#comments) - neat place, nice gain mapped photos
 * [The iPhone 15 Pro's Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html) : and the gain maps
+* [Apple/Adobe の Gain Map HDR について調べて軽く実装をしてみた](https://trev16.hatenablog.com/entry/2024/01/06/093003)
+* [Adventures in EDR, Part 1: Displaying EDR Photos in iOS 17](https://rioogino.com/posts/2024/edr_1_photos/) : "Video of the Photos app showing a photo of a sunset, with the sun getting brighter as EDR kicks in."
+* [vincenttsang/HDR-Gain-Map-Convert](https://github.com/vincenttsang/HDR-Gain-Map-Convert) : 基于SwiftUI编写的PQ_HDR_to_Gain_Map_HDR转换工具的HDR图片转换器GUI界面
 * [A Subjective Comparison of Three Standard Tone Mapping Algorithms for HDR-to-SDR Conversion](https://www.mdpi.com/2079-9292/14/12/2428)
 * [Learning Gain Map for Inverse Tone Mapping](https://github.com/qtlark/GMNet) - ICLR2025
 
