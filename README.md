@@ -16,6 +16,7 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
+* [
 * [HDR Flashbang](https://walzr.com/flashbang) : Make an image extremely bright - by [Riley Walz](https://walzr.com)
 * [HDR Image Generation via Gain Map Decomposed Diffusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Guan_HDR_Image_Generation_via_Gain_Map_Decomposed_Diffusion_ICCV_2025_paper.pdf) : (ICCV 2025)
   * and [Y. Guan's](https://github.com/Guanys-dar) github [repo](https://github.com/Guanys-dar/GM-Diffusion)
@@ -143,6 +144,7 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 * [American Science & Surplus is fighting for its life. Here’s why you should care.](https://arstechnica.com/gadgets/2025/06/american-science-surplus-is-fighting-for-its-life-heres-why-you-should-care/?comments-page=1#comments) - neat place, nice gain mapped photos
 * [The iPhone 15 Pro's Depth Maps](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html) : and the gain maps
 * [Apple/Adobe の Gain Map HDR について調べて軽く実装をしてみた](https://trev16.hatenablog.com/entry/2024/01/06/093003)
+* [Process Apple Gain Map: The ImageIO & the Core Image approaches](https://juniperphoton.substack.com/p/process-apple-gain-map-the-imageio)
 * [Adventures in EDR, Part 1: Displaying EDR Photos in iOS 17](https://rioogino.com/posts/2024/edr_1_photos/) : "Video of the Photos app showing a photo of a sunset, with the sun getting brighter as EDR kicks in."
 * [vincenttsang/HDR-Gain-Map-Convert](https://github.com/vincenttsang/HDR-Gain-Map-Convert) : 基于SwiftUI编写的PQ_HDR_to_Gain_Map_HDR转换工具的HDR图片转换器GUI界面
 * [A Subjective Comparison of Three Standard Tone Mapping Algorithms for HDR-to-SDR Conversion](https://www.mdpi.com/2079-9292/14/12/2428)
