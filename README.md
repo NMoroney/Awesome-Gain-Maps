@@ -16,7 +16,9 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
-* [
+* [HDRify](https://github.com/bhouston/hdrify) : Read/write HDR, EXR and UltraHDR JPGs (Gain maps), includes tone mapping and color space support.
+  * [Online tool](https://hdrify.ben3d.ca) by [bhouston](https://github.com/bhouston)
+  * repo includes [/assets](https://github.com/bhouston/hdrify/tree/main/assets) with examples
 * [HDR Flashbang](https://walzr.com/flashbang) : Make an image extremely bright - by [Riley Walz](https://walzr.com)
 * [HDR Image Generation via Gain Map Decomposed Diffusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Guan_HDR_Image_Generation_via_Gain_Map_Decomposed_Diffusion_ICCV_2025_paper.pdf) : (ICCV 2025)
   * and [Y. Guan's](https://github.com/Guanys-dar) github [repo](https://github.com/Guanys-dar/GM-Diffusion)
