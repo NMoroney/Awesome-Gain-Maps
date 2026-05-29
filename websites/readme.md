@@ -7,5 +7,7 @@ Which web sites preserve JPG gain maps?
 
 SDR version (with moire) above.
 
+✅ GitHub (below)
+
 <img src="2605-this_image_has_a_gain_map.jpg" width=600px>
 
