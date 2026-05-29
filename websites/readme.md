@@ -23,3 +23,5 @@ To test a web site:
 For example,
 
 ❌ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7465957994409922560/) as of 2026-05-29 removes the gain map (just a white image).
+
+✅ [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2605-this_image_has_a_gain_map.jpg)
