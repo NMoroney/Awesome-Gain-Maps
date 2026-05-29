@@ -20,3 +20,6 @@ To test a web site:
 * If you can see the gain mapped text on this GitHub page, then upload this image to a specific web site
   * visually confirm (or not) that the gain mapped text is still visible.
 
+For example,
+
+❌ [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7465957994409922560/) as of 2026-05-29 removes the gain map (just a white image).
