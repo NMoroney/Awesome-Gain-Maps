@@ -16,6 +16,7 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
+* **r/Lightroom** : [I got tired of my HDR edits dying after export, so I built a free/open-source Mac app to fix it](https://www.reddit.com/r/Lightroom/comments/1u20zej/i_got_tired_of_my_hdr_edits_dying_after_export_so/)
 * [HDRify](https://github.com/bhouston/hdrify) : Read/write HDR, EXR and UltraHDR JPGs (Gain maps), includes tone mapping and color space support.
   * [Online tool](https://hdrify.ben3d.ca) by [bhouston](https://github.com/bhouston)
   * repo includes [/assets](https://github.com/bhouston/hdrify/tree/main/assets) with examples
