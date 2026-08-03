@@ -16,6 +16,8 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
+* [HDR Gain Map Analyzer](https://github.com/daoyuli/HDRGainMapAnalyzer) : A concise tool that decodes HDR Gain Map images and ISO 21496-1 metadata from dual-layer HDR JPEGs. Supports single-channel and three-channel gain maps. Pure-Python — no ExifTool required.
+  * by [daoyuli](https://github.com/daoyuli)
 * **r/Lightroom** : [I got tired of my HDR edits dying after export, so I built a free/open-source Mac app to fix it](https://www.reddit.com/r/Lightroom/comments/1u20zej/i_got_tired_of_my_hdr_edits_dying_after_export_so/)
 * [HDRify](https://github.com/bhouston/hdrify) : Read/write HDR, EXR and UltraHDR JPGs (Gain maps), includes tone mapping and color space support.
   * [Online tool](https://hdrify.ben3d.ca) by [bhouston](https://github.com/bhouston)
