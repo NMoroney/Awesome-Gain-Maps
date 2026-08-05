@@ -27,6 +27,9 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
   * and [Y. Guan's](https://github.com/Guanys-dar) github [repo](https://github.com/Guanys-dar/GM-Diffusion)
 * [Convert HDR files to Gain Map HDR](https://github.com/chemharuka/toGainMapHDR) : A tool to convert HDR file to Adaptive HDR (Gain Map HDR) and ISO HDR format in HEIC
 * [HDR2gainmap](https://github.com/vastunghia/HDR2gainmap) : RAW photo development to HDR with gain maps, tuned for accurate rendering in Apple Photos
+* [HLG to SDR/HDR](https://github.com/dmitry907/hlg-to-sdr-hdr) : macOS app for camera HLG HEIF stills (Sony `.HIF`, Nikon Z). Folds them to SDR with a choice of operator including BT.2446 Method A, or writes JPG / HEIC carrying an ISO 21496-1 gain map. Installs a Photos editing extension, so the conversion runs on the HLG master rather than on an already folded export. Free.
+  * by [dmitry907](https://github.com/dmitry907)
+  * repo page includes side by side comparisons measured against the original HLG file
 * [Gain-MLP: Improving HDR Gain Map Encoding via a Lightweight MLP](https://arxiv.org/html/2503.11883v1)
   * [T. Canham](https://github.com/trevorcanham), [S. Tedla](https://github.com/tedlasai), [M.J. Murdoch](https://www.rit.edu/directory/mmpocs-michael-murdoch), [M.S. Brown](http://www.cse.yorku.ca/~mbrown/) - March 2025
   * "The proposed MLP network architecture. Given the SDR image’s pixel coordinates and RGB values, the network encodes each pixel in a 120-element sine embedding, which is then passed to a two-layer MLP, whose weights are optimized to predict the corresponding gain or gamma map values at each pixel."
