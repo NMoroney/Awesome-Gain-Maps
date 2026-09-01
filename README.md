@@ -16,6 +16,8 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
+* [Turning the Luminance Up to 11 (wide gamut profile vs gain map)](https://nmoroney.github.io/color/2026/260901_more_luminance/index.html) posted to [This Endless Frame](https://nmoroney.github.io)
+  * "The appearance of the overhead lighting reflected off the top of the knobs really pops."
 * [Post on Gain Maps](https://www.linkedin.com/feed/update/urn:li:activity:7493336224745627648/) by [David Pettersson](https://fr.linkedin.com/in/david-pettersson?trk=public_post_feed-actor-name)
   * "LinkedIn re-encodes everything you post and discards the metadata gain maps live in. What survives is the ICC profile, which means: PQ-encore the pixels, embed a Rec.2020 PQ profile and let the color management do its work."
 * [HDR Gain Map Analyzer](https://github.com/daoyuli/HDRGainMapAnalyzer) : A concise tool that decodes HDR Gain Map images and ISO 21496-1 metadata from dual-layer HDR JPEGs. Supports single-channel and three-channel gain maps. Pure-Python — no ExifTool required.
