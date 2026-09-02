@@ -16,6 +16,8 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
+* [SMPTE STANDARD : Dynamic Metadata for Color Volume Transform — Application #5](https://pub.smpte.org/doc/st2094-50/20260824-pub/)
+  * "Computing and compositing systems must often render multiple sources of content, including text, images, and videos, that can be both standard dynamic range and high dynamic range, on the same display, at the same time."
 * [Turning the Luminance Up to 11 (wide gamut profile vs gain map)](https://nmoroney.github.io/color/2026/260901_more_luminance/index.html) posted to [This Endless Frame](https://nmoroney.github.io)
   * "The appearance of the overhead lighting reflected off the top of the knobs really pops."
 * [Post on Gain Maps](https://www.linkedin.com/feed/update/urn:li:activity:7493336224745627648/) by [David Pettersson](https://fr.linkedin.com/in/david-pettersson?trk=public_post_feed-actor-name)
