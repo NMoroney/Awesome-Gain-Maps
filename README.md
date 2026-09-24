@@ -16,6 +16,8 @@ The resulting gain mapped JPGs have been validated using a MacBook Pro M3 (Sonom
 
 ---
 
+* [pyultrahdr](https://github.com/hanfeisun/pyultrahdr) - by [hanfeisun](https://github.com/hanfeisun)
+  * "Pure-Python SDR to Google Ultra HDR JPEG (gain map) converter"
 * [HDR Image Transcoder](https://github.com/Yuuichu/hdr-image-transcoder/tree/main) - by [Yuuichu](https://github.com/Yuuichu)
   * "Convert HDR images between modern HDR still-image formats."
 * [gainmaps.com](https://gainmaps.com) - Convert an image and much more (including the [ultra-text agent skill](https://gainmaps.com/developers))
